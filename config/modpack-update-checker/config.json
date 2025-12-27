@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "2.0.0",
+  "modpackName": "YggdrasilSMP",
+  "modpackAuthor": "Time Yggdrasil",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://raw.githubusercontent.com/Modpack-Update-Checker/example-update-checker/main/",
+  "advanced": {
+    "bccEnabled": true,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}
